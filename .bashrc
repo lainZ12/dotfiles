@@ -138,3 +138,5 @@ alias cond="conda deactivate"
 # ラボのssh
 eval `ssh-agent`
 ssh-add -L .ssh/id_rsa
+# windows home への移動
+alias cdw="cd /mnt/c/"
